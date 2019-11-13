@@ -35,7 +35,7 @@ Public Class C_Consultorio
 
 #Region "BuscarPorID"
     Public Function BuscarPorId(ByVal IdConsulta As Integer) As DataSet
-        Return oDatabase.ExecuteDataSet("ConsultaBuscarPorId", IdConsulta)
+        Return oDatabase.ExecuteDataSet("ConsultaBuscarId", IdConsulta)
     End Function
 #End Region
 
