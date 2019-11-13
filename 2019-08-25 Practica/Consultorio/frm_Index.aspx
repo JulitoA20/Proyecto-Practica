@@ -292,8 +292,7 @@
         </div>
         <div class="col-md-3 col-sm-3 col-xs-6">
           <div class="thumbnail">
-            <img src="img/doctor4.jpg" alt="..." class="team-img">
-            <div class="caption">
+            &nbsp;<div class="caption">
               <h3>Jason Davis</h3>
               <p>Doctor</p>
               <ul class="list-inline">
