@@ -86,7 +86,7 @@ Partial Class frm_Index
             MsgBox("Consulta modificada correctamente", vbInformation, "Modificar")
             Limpiar()
         Else
-            MsgBox("Completar datos para modificar", vbInformation, "Modificar")
+            MsgBox("Completar datos para modificar, por favor", vbInformation, "Modificar")
         End If
     End Sub
 #End Region
