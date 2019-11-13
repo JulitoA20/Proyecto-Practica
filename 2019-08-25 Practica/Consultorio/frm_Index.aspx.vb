@@ -40,7 +40,7 @@ Partial Class frm_Index
             MsgBox("Consulta cargada correctamente", vbInformation, "Cargar")
             Limpiar()
         Else
-            MsgBox("Completar datos para cargar", vbInformation, "Cargar")
+            MsgBox("Completar datos si desea continuar", vbInformation, "Cargar")
         End If
     End Sub
 #End Region
