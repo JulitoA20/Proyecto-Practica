@@ -41,7 +41,7 @@ Public Class C_Consultorio
 
 #Region "Modificar"
     Public Function Modificar(ByVal IdCaso As Integer, ByVal Consulta As String, ByVal Dias As Integer, ByVal IdTipo As Integer, ByVal Edad As Integer, ByVal Email As String) As Double
-        Return oDatabase.ExecuteScalar("ConsutltaModificar", IdCaso, Consulta, Dias, IdTipo, Edad, Email)
+        Return oDatabase.ExecuteScalar("ConsutltaMod", IdCaso, Consulta, Dias, IdTipo, Edad, Email)
     End Function
 #End Region
 

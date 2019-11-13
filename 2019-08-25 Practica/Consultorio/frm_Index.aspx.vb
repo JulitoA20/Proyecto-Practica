@@ -83,7 +83,7 @@ Partial Class frm_Index
 
         If txtId.Text <> Nothing And txtConsulta.Text <> Nothing And txtDias.Text <> Nothing And ddlTipo.Text <> Nothing And txtEdad.Text <> Nothing And txtEmail.Text <> Nothing Then
             oConsulta.Modificar(txtId.Text, txtConsulta.Text, txtDias.Text, ddlTipo.Text, txtEdad.Text, txtEmail.Text)
-            MsgBox("Consulta modificada correctamente", vbInformation, "Modificar")
+            MsgBox("Consulta modificada con éxito", vbInformation, "Modificar")
             Limpiar()
         Else
             MsgBox("Completar datos para modificar, por favor", vbInformation, "Modificar")
