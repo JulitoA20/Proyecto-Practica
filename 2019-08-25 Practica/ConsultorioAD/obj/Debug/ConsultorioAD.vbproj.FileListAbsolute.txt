@@ -1,0 +1,28 @@
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\ConsultorioAD.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\ConsultorioAD.pdb
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\ConsultorioAD.xml
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\obj\Debug\ConsultorioAD.Resources.resources
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\obj\Debug\ConsultorioAD.vbproj.GenerateResource.Cache
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\obj\Debug\ConsultorioAD.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\obj\Debug\ConsultorioAD.xml
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\obj\Debug\ConsultorioAD.pdb
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\FESSIA\Desktop\LuqueFessiaSantiagoParcial4\ConsultorioAD\obj\Debug\ConsultorioAD.vbprojResolveAssemblyReference.cache
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\ConsultorioAD.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\ConsultorioAD.pdb
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\ConsultorioAD.xml
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\obj\Debug\ConsultorioAD.vbprojResolveAssemblyReference.cache
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\obj\Debug\ConsultorioAD.Resources.resources
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\obj\Debug\ConsultorioAD.vbproj.GenerateResource.Cache
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\obj\Debug\ConsultorioAD.dll
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\obj\Debug\ConsultorioAD.xml
+C:\Users\FESSIA\Programacion2\2019-08-25Parcial 4 LuqueFessia\ConsultorioAD\obj\Debug\ConsultorioAD.pdb

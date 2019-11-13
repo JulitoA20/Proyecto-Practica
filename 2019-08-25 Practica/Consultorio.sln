@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Consultorio", "Consultorio\", "{B11D071A-F43C-4D64-AE53-5FAC7C62B96D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{B88DA996-B85A-4294-BF15-56ED716022D0}|ConsultorioAD.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Consultorio"
+		Debug.AspNetCompiler.PhysicalPath = "Consultorio\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Consultorio\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Consultorio"
+		Release.AspNetCompiler.PhysicalPath = "Consultorio\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Consultorio\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1125"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsultorioAD", "ConsultorioAD\ConsultorioAD.vbproj", "{B88DA996-B85A-4294-BF15-56ED716022D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11D071A-F43C-4D64-AE53-5FAC7C62B96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11D071A-F43C-4D64-AE53-5FAC7C62B96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11D071A-F43C-4D64-AE53-5FAC7C62B96D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11D071A-F43C-4D64-AE53-5FAC7C62B96D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B88DA996-B85A-4294-BF15-56ED716022D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88DA996-B85A-4294-BF15-56ED716022D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88DA996-B85A-4294-BF15-56ED716022D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88DA996-B85A-4294-BF15-56ED716022D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
