@@ -391,7 +391,7 @@
             <table style="width:100%;">
                 <tr>
                     <td class="style1">
-                        ID_Caso</td>
+                        Nombre</td>
                     <td>
                         <asp:TextBox ID="txtId" runat="server"></asp:TextBox>
                     </td>
@@ -400,7 +400,7 @@
                 </tr>
                 <tr>
                     <td class="style1">
-                        Consulta</td>
+                        Apellido</td>
                     <td>
                         <asp:TextBox ID="txtConsulta" runat="server"></asp:TextBox>
                     </td>
@@ -418,7 +418,7 @@
                 </tr>
                 <tr>
                     <td class="style1">
-                        TipoCaso</td>
+                        Id_TipoCaso</td>
                     <td>
                         <asp:DropDownList ID="ddlTipo" runat="server">
                         </asp:DropDownList>
