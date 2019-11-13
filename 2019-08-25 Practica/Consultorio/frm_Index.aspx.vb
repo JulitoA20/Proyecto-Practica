@@ -100,7 +100,7 @@ Partial Class frm_Index
             MsgBox("Consulta Eliminada", vbInformation, "Eliminar")
             Limpiar()
         Else
-            MsgBox("Ingresar ID para Eliminar", vbInformation, "Eliminar")
+            MsgBox("Ingresar dato para Eliminar", vbInformation, "Eliminar")
         End If
     End Sub
 #End Region
