@@ -72,7 +72,7 @@ Partial Class frm_Index
                 txtEmail.Text = (ods.Tables(0).Rows(0).Item("Email"))
             End If
         Else
-            MsgBox("Este ID es inexistente", vbInformation, "Cargar")
+            MsgBox("Este ID es inexistente, corrobore lo cargado", vbInformation, "Cargar")
         End If
     End Sub
 #End Region
