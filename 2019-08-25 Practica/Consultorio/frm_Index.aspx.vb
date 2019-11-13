@@ -25,7 +25,7 @@ Partial Class frm_Index
 
 #Region "Limpiar"
     Private Sub Limpiar()
-        ddlTipo.SelectedIndex = 0
+        ddlTipo.SelectedIndex = 1
         comboTipo()
         CargarGrilla()
     End Sub

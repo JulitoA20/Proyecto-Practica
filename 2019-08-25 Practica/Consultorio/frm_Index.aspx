@@ -473,7 +473,7 @@
                 </tr>
                 <tr>
                     <td class="style1">
-                        < <img src="img/doctor2.jpg" alt="..." class="team-img"></td>
+                        < </td>
                     <td>
                         &nbsp;</td>
                     <td>

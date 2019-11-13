@@ -23,7 +23,7 @@ Public Class C_Consultorio
 
 #Region "Agregar"
     Public Function Agregar(ByVal Consulta As String, ByVal Dias As Integer, ByVal IdTipo As Integer, ByVal Edad As Integer, ByVal Email As String) As Double
-        Return oDatabase.ExecuteScalar("ConsultaAgregar", Consulta, Dias, IdTipo, Edad, Email)
+        Return oDatabase.ExecuteScalar("ConsultaAgre", Consulta, Dias, IdTipo, Edad, Email)
     End Function
 #End Region
 
