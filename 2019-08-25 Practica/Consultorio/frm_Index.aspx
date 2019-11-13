@@ -391,7 +391,7 @@
             <table style="width:100%;">
                 <tr>
                     <td class="style1">
-                        IdCaso</td>
+                        IDNombre</td>
                     <td>
                         <asp:TextBox ID="txtId" runat="server"></asp:TextBox>
                     </td>
